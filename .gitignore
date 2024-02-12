@@ -5,6 +5,7 @@ dist/
 
 # dependencies
 node_modules/
+node_modules\
 
 # logs
 npm-debug.log*
@@ -19,3 +20,23 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+node_modules/.bin/astro
+node_modules/.bin/astro-check
+node_modules/.bin/astro-check.CMD
+node_modules/.bin/astro-check.ps1
+node_modules/.bin/astro.CMD
+node_modules/.bin/astro.ps1
+node_modules/.bin/tsc
+node_modules/.bin/tsc.CMD
+node_modules/.bin/tsc.ps1
+node_modules/.bin/tsserver
+node_modules/.bin/tsserver.CMD
+node_modules/.bin/tsserver.ps1
+node_modules/.vite/deps/_metadata.json
+node_modules/.vite/deps/astro___aria-query.js
+node_modules/.vite/deps/astro___aria-query.js.map
+node_modules/.vite/deps/astro___axobject-query.js
+node_modules/.vite/deps/astro___axobject-query.js.map
+node_modules/.vite/deps/chunk-URSL5ITW.js
+node_modules/.vite/deps/chunk-URSL5ITW.js.map
+node_modules/.vite/deps/package.json
